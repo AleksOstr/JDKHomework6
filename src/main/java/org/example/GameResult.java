@@ -1,2 +1,6 @@
-package org.example;public enum GameResult {
+package org.example;
+
+public enum GameResult {
+    WIN,
+    LOSE
 }
